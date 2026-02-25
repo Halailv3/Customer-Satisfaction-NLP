@@ -27,6 +27,9 @@ Customer Satisfaction (CR) — Binary classification
 0 → Not satisfied
 
 ## Methodology
+## Open Notebook in Colab
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Halailv3/Customer-Satisfaction-NLP/blob/main/Amazon_Review_NLP.ipynb)
 
 ### Data Cleaning & Feature Selection
 - Removed non-predictive identifiers
