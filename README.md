@@ -77,3 +77,14 @@ Logistic Regression was selected as the best-performing model due to:
 - Hala Alqurashi 
 - Mohammed Alzanbahi 
 - Nasser Alsharif
+
+## Results
+
+### Sentiment Analysis Results
+![Sentiment Analysis Results](Sentiment-Analysis-Results.png)
+
+### Logistic Regression Results
+![Logistic Regression Results](Logistic-Regression-Results.png)
+
+### Model Comparison Results
+![Model Comparison Results](Model-Comparison-Results.png)
