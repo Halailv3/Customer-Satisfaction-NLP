@@ -74,25 +74,25 @@ Logistic Regression was selected as the best-performing model due to:
 
 ## Team
 
-### Mohammed — Data Cleaning & Exploratory Data Analysis (EDA)
+### Mohammed Alzanbahi — Data Cleaning & Exploratory Data Analysis (EDA)
 - Cleaned raw dataset and handled missing values  
 - Converted timestamps and prepared structured columns  
 - Explored rating distribution and review patterns  
 - Identified key variables influencing customer satisfaction  
 
-### Rawabi — NLP & Sentiment Analysis
+### Rawabi Alharthi — NLP & Sentiment Analysis
 - Implemented Transformer-based sentiment analysis using Hugging Face  
 - Built rule-based sentiment scoring with positive and negative word lists  
 - Extracted frequent sentiment keywords  
 - Converted sentiment signals into structured binary features  
 
-### Hala — Feature Engineering
+### Hala Alqurashi — Feature Engineering
 - Created behavioral indicators such as Helpful Ratio and Text Length  
 - Built Binary Customer Review (CR) target variable  
 - Prepared TF-IDF text representation  
 - Normalized features and handled class imbalance  
 
-### Nasser — Modeling & Evaluation
+### Nasser Alsharif — Modeling & Evaluation
 - Trained multiple classification models  
 - Applied class weight tuning for imbalance  
 - Compared model performance metrics  
