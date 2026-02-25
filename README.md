@@ -99,7 +99,8 @@ Logistic Regression was selected as the best-performing model due to:
 - Trained multiple classification models  
 - Applied class weight tuning for imbalance  
 - Compared model performance metrics  
-- Selected Logistic Regression as the best-performing model and interpreted results  
+- Selected Logistic Regression as the best-performing model and interpreted results
+- 
 
 ## Results
 
@@ -111,3 +112,7 @@ Logistic Regression was selected as the best-performing model due to:
 
 ### Model Comparison Results
 ![Model Comparison Results](Model-Comparison-Results.png)
+
+## License & Copyright
+© 2026 Team Customer-Satisfaction-NLP Project.  
+This repository is for educational and portfolio purposes.
